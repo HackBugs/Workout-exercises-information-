@@ -6,7 +6,7 @@
 
 **Waight Loss calories Calculator**
 ```
-7,700 calories = 1kg`
+7,700 calories = 1kg
 
 Means if I want burn 13 kg my Waight I will brun 🔥 7,700*13 = 100,100
 
