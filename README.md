@@ -4,6 +4,7 @@
 2. BMR (Basal Metabolic rate)
 3. TDEE (Total Daily Energy Expenditure) 
 
+**Waight Loss calories Calculator**
 ```
 7,700 calories = 1kg`
 
